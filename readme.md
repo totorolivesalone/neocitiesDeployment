@@ -1,4 +1,4 @@
-### Neocities ci/cd 
+### Neocities deployment
 Follow [Neocities Action](https://github.com/marketplace/actions/deploy-to-neocities#usage) guide and omit lines 21 to 30 from .yml file section mentioned in the doc
 
 Ensure that your website files and folders are stored in a public repository adjecent to .github/ folder mentioned in above guide . 
